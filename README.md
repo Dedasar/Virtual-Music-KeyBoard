@@ -1,4 +1,5 @@
 Construindo um Simulador de Piano com JavaScript e CSS
-Projeto desenvolvido como parte do aprendizado bootcamp Ri Happy - Front-end do Zero.
+Este projeto foi desenvolvido como parte do aprendizado no bootcamp Ri Happy - Front-end do Zero. Durante o desenvolvimento, explorei técnicas fundamentais de JavaScript e CSS para criar um simulador de piano interativo.
 
-Foi muito gostoso desenvolver esse projeto e extremamento proveitoso para o aprendizado.
+Motivação e Aprendizado
+O desenvolvimento deste simulador foi extremamente gratificante e proporcionou um vasto aprendizado. Foi uma experiência valiosa que combinou diversão com a prática intensiva de habilidades de front-end.
